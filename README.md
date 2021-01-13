@@ -9,9 +9,9 @@ You'll work through these in order.
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| 1 | Python Intro 1 | [here](./python-intro1-notebook.ipynb) |
-| 2 | Python Intro 2 | [here](./python-intro2-notebook.ipynb)
-| 3 | Python Intro 3 | [here](./python-intro3-notebook.ipynb) |
+| 1 | Python Intro 1 | [here](./python-intro1-starter.ipynb) |
+| 2 | Python Intro 2 | [here](./python-intro2-starter.ipynb)
+| 3 | Python Intro 3 | [here](./python-intro3-starter.ipynb) |
 
 
 ---
